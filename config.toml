@@ -1,0 +1,5 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Hugo Shortcodes to embed SoundCloud"
+theme = "introduction"
+publishDir = "docs"
