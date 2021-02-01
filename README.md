@@ -14,6 +14,10 @@ Copy [soundcloud-user.html](./layouts/shortcodes/soundcloud-user.html) into your
 {{< soundcloud-user UserID >}}
 ```
 
+#### Example
+
+![Soundcloud user](./images/soundcloud-user.png)
+
 ### Playlist widget
 
 Copy [soundcloud-playlist.html](./layouts/shortcodes/soundcloud-playlist.html) into your `layouts/shortcode/` directory.
@@ -24,6 +28,10 @@ Copy [soundcloud-playlist.html](./layouts/shortcodes/soundcloud-playlist.html) i
 {{< soundcloud-playlist PlaylistID >}}
 ```
 
-## Note
+#### Example
 
-You can confirm UserID and PlaylistID by [SoundCloud HTTP API](https://developers.soundcloud.com/docs/api/reference).
+![Soundcloud playlist](./images/soundcloud-playlist.png)
+
+## Notes
+
+You can confirm `UserID` and `PlaylistID` by [SoundCloud HTTP API](https://developers.soundcloud.com/docs/api/reference).
