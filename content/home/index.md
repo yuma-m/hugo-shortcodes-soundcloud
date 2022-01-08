@@ -19,3 +19,11 @@ title = "SoundCloud Example"
 ```
 
 {{< soundcloud-playlist 193869697 >}}
+
+## Track widget
+
+```markdown
+{{</* soundcloud-track TrackID */>}}
+```
+
+{{< soundcloud-track 1188269776 >}}
