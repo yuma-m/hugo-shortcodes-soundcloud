@@ -6,7 +6,7 @@ Hugo shortcodes to embed SoundCloud on your site.
 
 ### User widget
 
-Copy [soundcloud-user.html](./layouts/shortcodes/soundcloud-user.html) into your `layouts/shortcode/` directory.
+Copy [soundcloud-user.html](./layouts/shortcodes/soundcloud-user.html) into your `layouts/shortcodes/` directory.
 
 #### Usage
 
@@ -20,7 +20,7 @@ Copy [soundcloud-user.html](./layouts/shortcodes/soundcloud-user.html) into your
 
 ### Playlist widget
 
-Copy [soundcloud-playlist.html](./layouts/shortcodes/soundcloud-playlist.html) into your `layouts/shortcode/` directory.
+Copy [soundcloud-playlist.html](./layouts/shortcodes/soundcloud-playlist.html) into your `layouts/shortcodes/` directory.
 
 #### Usage
 
@@ -34,7 +34,7 @@ Copy [soundcloud-playlist.html](./layouts/shortcodes/soundcloud-playlist.html) i
 
 ### Track widget
 
-Copy [soundcloud-track.html](./layouts/shortcodes/soundcloud-track.html) into your `layouts/shortcode/` directory.
+Copy [soundcloud-track.html](./layouts/shortcodes/soundcloud-track.html) into your `layouts/shortcodes/` directory.
 
 #### Usage
 
